@@ -1,0 +1,19 @@
+{
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <your-license-filename>",
+	"readme": "NativeScript Application",
+	"repository": "<fill-your-repository-here>",
+	"nativescript": {
+		"id": "org.nativescript.imagelistdemo",
+		"tns-ios": {
+			"version": "2.0.1"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "2.0.1"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "^0.3.2",
+		"typescript": "^1.8.10"
+	}
+}
